@@ -62,6 +62,26 @@ https://komarev.com/ghpvc/?username=yansheng836&color=green
 
 ![visitors](https://komarev.com/ghpvc/?username=yansheng836&color=green)
 
+## 访问者数量统计flagcounter
+
+[旗帜柜台 - 免费柜台 - 即时，简单和有趣！ (flagcounter.com)](https://www.flagcounter.com/index.html?)
+
+可以统计每个国家的访问者数量。
+
+### 我的配置
+
+<a href="https://info.flagcounter.com/f03j"><img src="https://s05.flagcounter.com/count2/f03j/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+
+
+[URL=https://info.flagcounter.com/f03j][IMG]https://s05.flagcounter.com/count2/f03j/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/[/IMG][/URL]
+
+### 效果
+
+https://s05.flagcounter.com/more/f03j/
+
+![image-20220501023333401](assets/image-20220501023333401.png)
+
 ## 各种徽章shields
 
 [Shields.io: Quality metadata badges for open source projects](https://shields.io/)
@@ -129,3 +149,4 @@ https://starchart.cc/yansheng836/404pages
 yansheng836/404pages
 
 ![image-20220423225556606](assets/image-20220423225556606.png)
+
