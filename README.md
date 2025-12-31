@@ -10,8 +10,12 @@
   <img src="https://github.com/yansheng836/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
 
+---
+
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
+
+---
