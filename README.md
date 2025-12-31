@@ -17,8 +17,8 @@
 <!-- the first part of your README.md goes here! -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#128](https://github.com/jamesgeorge007/github-activity-readme/issues/128#issuecomment-3701269997) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. ❗ Opened issue [#128](https://github.com/jamesgeorge007/github-activity-readme/issues/128) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. 🗣 Commented on [#128](https://github.com/jamesgeorge007/github-activity-readme/issues/128#issuecomment-3701544298) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. 🔒 Closed issue [#128](https://github.com/jamesgeorge007/github-activity-readme/issues/128) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 <!-- the last part/remainder of your README.md goes here -->
