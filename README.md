@@ -14,8 +14,8 @@
 
 ### :zap: Recent Activity
 
+<!-- the first part of your README.md goes here! -->
+
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
----
+<!-- the last part/remainder of your README.md goes here -->
