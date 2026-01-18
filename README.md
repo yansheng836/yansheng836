@@ -17,8 +17,8 @@
 <!-- the first part of your README.md goes here! -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#128](https://github.com/jamesgeorge007/github-activity-readme/issues/128#issuecomment-3701544298) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🔒 Closed issue [#128](https://github.com/jamesgeorge007/github-activity-readme/issues/128) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. 🗣 Commented on [#1](https://github.com/aelooee/red-dream-network-Tr/issues/1#issuecomment-3765040242) in [aelooee/red-dream-network-Tr](https://github.com/aelooee/red-dream-network-Tr)
+2. 🔒 Closed issue [#1](https://github.com/aelooee/red-dream-network-Tr/issues/1) in [aelooee/red-dream-network-Tr](https://github.com/aelooee/red-dream-network-Tr)
 <!--END_SECTION:activity-->
 
 <!-- the last part/remainder of your README.md goes here -->
