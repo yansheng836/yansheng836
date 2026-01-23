@@ -17,8 +17,8 @@
 <!-- the first part of your README.md goes here! -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/aelooee/red-dream-network-Tr/issues/1#issuecomment-3765040242) in [aelooee/red-dream-network-Tr](https://github.com/aelooee/red-dream-network-Tr)
-2. 🔒 Closed issue [#1](https://github.com/aelooee/red-dream-network-Tr/issues/1) in [aelooee/red-dream-network-Tr](https://github.com/aelooee/red-dream-network-Tr)
+1. ℹ️ Labeled issue [#6147](https://github.com/clash-verge-rev/clash-verge-rev/issues/6147) in [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+2. ❗ Opened issue [#6147](https://github.com/clash-verge-rev/clash-verge-rev/issues/6147) in [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 <!--END_SECTION:activity-->
 
 <!-- the last part/remainder of your README.md goes here -->
