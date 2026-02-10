@@ -17,8 +17,8 @@
 <!-- the first part of your README.md goes here! -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8842](https://github.com/ruanyf/weekly/issues/8842#issuecomment-3808436504) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
-2. ℹ️ Labeled issue [#6147](https://github.com/clash-verge-rev/clash-verge-rev/issues/6147) in [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+1. 🗣 Commented on [#6147](https://github.com/clash-verge-rev/clash-verge-rev/issues/6147#issuecomment-3876011044) in [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+2. 🗣 Commented on [#8842](https://github.com/ruanyf/weekly/issues/8842#issuecomment-3808436504) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
 <!--END_SECTION:activity-->
 
 <!-- the last part/remainder of your README.md goes here -->
