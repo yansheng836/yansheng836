@@ -21,8 +21,8 @@
 <!-- the first part of your README.md goes here! -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6147](https://github.com/clash-verge-rev/clash-verge-rev/issues/6147#issuecomment-3981583278) in [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
-2. 🔒 Closed issue [#6147](https://github.com/clash-verge-rev/clash-verge-rev/issues/6147) in [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+1. 🚀 Published release [v1.0.5-wzry 添加相册功能](https://github.com/yansheng836/hero-skin/releases/tag/v1.0.5-wzry) in [yansheng836/hero-skin](https://github.com/yansheng836/hero-skin)
+2. ❗ Opened issue [#774](https://github.com/lokesh/lightbox2/issues/774) in [lokesh/lightbox2](https://github.com/lokesh/lightbox2)
 <!--END_SECTION:activity-->
 
 <!-- the last part/remainder of your README.md goes here -->
