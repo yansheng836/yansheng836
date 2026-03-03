@@ -21,8 +21,8 @@
 <!-- the first part of your README.md goes here! -->
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.5-wzry 添加相册功能](https://github.com/yansheng836/hero-skin/releases/tag/v1.0.5-wzry) in [yansheng836/hero-skin](https://github.com/yansheng836/hero-skin)
-2. ❗ Opened issue [#774](https://github.com/lokesh/lightbox2/issues/774) in [lokesh/lightbox2](https://github.com/lokesh/lightbox2)
+1. 🚀 Published release [hero-skin-1.0.5-wzry 优化](https://github.com/yansheng836/hero-skin-image/releases/tag/hero-skin-1.0.5-wzry) in [yansheng836/hero-skin-image](https://github.com/yansheng836/hero-skin-image)
+2. 🚀 Published release [v1.0.5-wzry 添加相册功能](https://github.com/yansheng836/hero-skin/releases/tag/v1.0.5-wzry) in [yansheng836/hero-skin](https://github.com/yansheng836/hero-skin)
 <!--END_SECTION:activity-->
 
 <!-- the last part/remainder of your README.md goes here -->
