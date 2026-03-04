@@ -21,8 +21,8 @@
 <!-- the first part of your README.md goes here! -->
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [hero-skin-1.0.5-wzry 优化](https://github.com/yansheng836/hero-skin-image/releases/tag/hero-skin-1.0.5-wzry) in [yansheng836/hero-skin-image](https://github.com/yansheng836/hero-skin-image)
-2. 🚀 Published release [v1.0.5-wzry 添加相册功能](https://github.com/yansheng836/hero-skin/releases/tag/v1.0.5-wzry) in [yansheng836/hero-skin](https://github.com/yansheng836/hero-skin)
+1. 🚀 Published release [v1.0.1 add a version for old repo](https://github.com/yansheng836/hcache/releases/tag/v1.0.1) in [yansheng836/hcache](https://github.com/yansheng836/hcache)
+2. 💪 Opened PR [#1](https://github.com/yansheng836/hcache/pull/1) in [yansheng836/hcache](https://github.com/yansheng836/hcache)
 <!--END_SECTION:activity-->
 
 <!-- the last part/remainder of your README.md goes here -->
