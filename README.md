@@ -21,8 +21,8 @@
 <!-- the first part of your README.md goes here! -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/silenceshell/hcache/issues/45#issuecomment-4009196932) in [silenceshell/hcache](https://github.com/silenceshell/hcache)
-2. 🚀 Published release [v1.0.1 add tag for old repo last code](https://github.com/yansheng836/hcache/releases/tag/v1.0.1) in [yansheng836/hcache](https://github.com/yansheng836/hcache)
+1. ❗ Opened issue [#1](https://github.com/MrQianjinsi/agentic-metric/issues/1) in [MrQianjinsi/agentic-metric](https://github.com/MrQianjinsi/agentic-metric)
+2. 🗣 Commented on [#130](https://github.com/jamesgeorge007/github-activity-readme/issues/130#issuecomment-4035622963) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 <!-- the last part/remainder of your README.md goes here -->
