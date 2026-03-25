@@ -21,8 +21,8 @@
 <!-- the first part of your README.md goes here! -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#461](https://github.com/postgres-cn/pgdoc-cn/pull/461) in [postgres-cn/pgdoc-cn](https://github.com/postgres-cn/pgdoc-cn)
-2. ❗ Opened issue [#1](https://github.com/MrQianjinsi/agentic-metric/issues/1) in [MrQianjinsi/agentic-metric](https://github.com/MrQianjinsi/agentic-metric)
+1. 💪 Opened PR [#471](https://github.com/postgres-cn/pgdoc-cn/pull/471) in [postgres-cn/pgdoc-cn](https://github.com/postgres-cn/pgdoc-cn)
+2. 🗣 Commented on [#467](https://github.com/postgres-cn/pgdoc-cn/issues/467#issuecomment-4124355691) in [postgres-cn/pgdoc-cn](https://github.com/postgres-cn/pgdoc-cn)
 <!--END_SECTION:activity-->
 
 <!-- the last part/remainder of your README.md goes here -->
