@@ -21,8 +21,8 @@
 <!-- the first part of your README.md goes here! -->
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.8 修复已知问题](https://github.com/yansheng836/GCCL/releases/tag/v1.1.8) in [yansheng836/GCCL](https://github.com/yansheng836/GCCL)
-2. 💪 Opened PR [#471](https://github.com/postgres-cn/pgdoc-cn/pull/471) in [postgres-cn/pgdoc-cn](https://github.com/postgres-cn/pgdoc-cn)
+1. ❗ Opened issue [#426](https://github.com/citusdata/pg_cron/issues/426) in [citusdata/pg_cron](https://github.com/citusdata/pg_cron)
+2. 🚀 Published release [v1.1.8 修复已知问题](https://github.com/yansheng836/GCCL/releases/tag/v1.1.8) in [yansheng836/GCCL](https://github.com/yansheng836/GCCL)
 <!--END_SECTION:activity-->
 
 <!-- the last part/remainder of your README.md goes here -->
