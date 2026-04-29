@@ -21,8 +21,8 @@
 <!-- the first part of your README.md goes here! -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/solar-luna/Fully-automatic-article-generation-skill/issues/2#issuecomment-4197462408) in [solar-luna/Fully-automatic-article-generation-skill](https://github.com/solar-luna/Fully-automatic-article-generation-skill)
-2. ❗ Opened issue [#2](https://github.com/solar-luna/Fully-automatic-article-generation-skill/issues/2) in [solar-luna/Fully-automatic-article-generation-skill](https://github.com/solar-luna/Fully-automatic-article-generation-skill)
+1. ℹ️ Labeled issue [#2455](https://github.com/farion1231/cc-switch/issues/2455) in [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
+2. ❗ Opened issue [#2455](https://github.com/farion1231/cc-switch/issues/2455) in [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
 <!--END_SECTION:activity-->
 
 <!-- the last part/remainder of your README.md goes here -->
