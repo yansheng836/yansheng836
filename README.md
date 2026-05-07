@@ -21,8 +21,8 @@
 <!-- the first part of your README.md goes here! -->
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#2455](https://github.com/farion1231/cc-switch/issues/2455) in [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
-2. ❗ Opened issue [#2455](https://github.com/farion1231/cc-switch/issues/2455) in [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
+1. 🔒 Closed issue [#143](https://github.com/OpenSenseNova/SenseNova-U1/issues/143) in [OpenSenseNova/SenseNova-U1](https://github.com/OpenSenseNova/SenseNova-U1)
+2. 🗣 Commented on [#143](https://github.com/OpenSenseNova/SenseNova-U1/issues/143#issuecomment-4394778163) in [OpenSenseNova/SenseNova-U1](https://github.com/OpenSenseNova/SenseNova-U1)
 <!--END_SECTION:activity-->
 
 <!-- the last part/remainder of your README.md goes here -->
