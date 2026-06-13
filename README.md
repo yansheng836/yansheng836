@@ -21,8 +21,8 @@
 <!-- the first part of your README.md goes here! -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#469](https://github.com/DayBreak-u/chineseocr_lite/issues/469#issuecomment-4668398954) in [DayBreak-u/chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite)
-2. ❗ Opened issue [#5](https://github.com/yansheng836/github-stats/issues/5) in [yansheng836/github-stats](https://github.com/yansheng836/github-stats)
+1. ❌ Closed PR [#4](https://github.com/yansheng836/bilibili-Fanrenpc/pull/4) in [yansheng836/bilibili-Fanrenpc](https://github.com/yansheng836/bilibili-Fanrenpc)
+2. 🗣 Commented on [#469](https://github.com/DayBreak-u/chineseocr_lite/issues/469#issuecomment-4668398954) in [DayBreak-u/chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite)
 <!--END_SECTION:activity-->
 
 <!-- the last part/remainder of your README.md goes here -->
