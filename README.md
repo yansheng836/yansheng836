@@ -21,8 +21,8 @@
 <!-- the first part of your README.md goes here! -->
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.1 初版](https://github.com/yansheng836/jekyll-theme-guofeng/releases/tag/v0.0.1) in [yansheng836/jekyll-theme-guofeng](https://github.com/yansheng836/jekyll-theme-guofeng)
-2. 🗣 Commented on [#8](https://github.com/yansheng836/bilibili-Fanrenpc/pull/8#issuecomment-4701494709) in [yansheng836/bilibili-Fanrenpc](https://github.com/yansheng836/bilibili-Fanrenpc)
+1. 🚀 Published release [v2.0.5 主要修复[文件去重]功能中遇到的一些问题](https://github.com/yansheng836/python-toolbox/releases/tag/v2.0.5) in [yansheng836/python-toolbox](https://github.com/yansheng836/python-toolbox)
+2. 🚀 Published release [v0.0.1 初版](https://github.com/yansheng836/jekyll-theme-guofeng/releases/tag/v0.0.1) in [yansheng836/jekyll-theme-guofeng](https://github.com/yansheng836/jekyll-theme-guofeng)
 <!--END_SECTION:activity-->
 
 <!-- the last part/remainder of your README.md goes here -->
