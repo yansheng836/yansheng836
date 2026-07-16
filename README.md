@@ -21,8 +21,8 @@
 <!-- the first part of your README.md goes here! -->
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#14](https://github.com/browser-act/skills/issues/14) in [browser-act/skills](https://github.com/browser-act/skills)
-2. 🗣 Commented on [#10500](https://github.com/ruanyf/weekly/issues/10500#issuecomment-4840821271) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
+1. 🗣 Commented on [#39](https://github.com/AgnesAI-Labs/AgnesAI-Models/issues/39#issuecomment-4990855423) in [AgnesAI-Labs/AgnesAI-Models](https://github.com/AgnesAI-Labs/AgnesAI-Models)
+2. ❗ Opened issue [#14](https://github.com/browser-act/skills/issues/14) in [browser-act/skills](https://github.com/browser-act/skills)
 <!--END_SECTION:activity-->
 
 <!-- the last part/remainder of your README.md goes here -->
