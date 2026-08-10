@@ -21,8 +21,8 @@
 <!-- the first part of your README.md goes here! -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39](https://github.com/AgnesAI-Labs/AgnesAI-Models/issues/39#issuecomment-4990855423) in [AgnesAI-Labs/AgnesAI-Models](https://github.com/AgnesAI-Labs/AgnesAI-Models)
-2. ❗ Opened issue [#14](https://github.com/browser-act/skills/issues/14) in [browser-act/skills](https://github.com/browser-act/skills)
+1. 🚀 Published release [v0.0.1 - TimescaleDB 2.3.1 for PG 11 (Windows)](https://github.com/yansheng836/timescaledb-pg11-build/releases/tag/v0.0.1) in [yansheng836/timescaledb-pg11-build](https://github.com/yansheng836/timescaledb-pg11-build)
+2. 🗣 Commented on [#39](https://github.com/AgnesAI-Labs/AgnesAI-Models/issues/39#issuecomment-4990855423) in [AgnesAI-Labs/AgnesAI-Models](https://github.com/AgnesAI-Labs/AgnesAI-Models)
 <!--END_SECTION:activity-->
 
 <!-- the last part/remainder of your README.md goes here -->
