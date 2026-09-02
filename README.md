@@ -21,8 +21,8 @@
 <!-- the first part of your README.md goes here! -->
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.1 - TimescaleDB 2.3.1 for PG 11 (Windows)](https://github.com/yansheng836/timescaledb-pg11-build/releases/tag/v0.0.1) in [yansheng836/timescaledb-pg11-build](https://github.com/yansheng836/timescaledb-pg11-build)
-2. 🗣 Commented on [#39](https://github.com/AgnesAI-Labs/AgnesAI-Models/issues/39#issuecomment-4990855423) in [AgnesAI-Labs/AgnesAI-Models](https://github.com/AgnesAI-Labs/AgnesAI-Models)
+1. ❗ Opened issue [#90](https://github.com/WeiyePlayer/TTcut/issues/90) in [WeiyePlayer/TTcut](https://github.com/WeiyePlayer/TTcut)
+2. 🚀 Published release [v0.0.1 - TimescaleDB 2.3.1 for PG 11 (Windows)](https://github.com/yansheng836/timescaledb-pg11-build/releases/tag/v0.0.1) in [yansheng836/timescaledb-pg11-build](https://github.com/yansheng836/timescaledb-pg11-build)
 <!--END_SECTION:activity-->
 
 <!-- the last part/remainder of your README.md goes here -->
