@@ -21,8 +21,8 @@
 <!-- the first part of your README.md goes here! -->
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#90](https://github.com/WeiyePlayer/TTcut/issues/90) in [WeiyePlayer/TTcut](https://github.com/WeiyePlayer/TTcut)
-2. 🚀 Published release [v0.0.1 - TimescaleDB 2.3.1 for PG 11 (Windows)](https://github.com/yansheng836/timescaledb-pg11-build/releases/tag/v0.0.1) in [yansheng836/timescaledb-pg11-build](https://github.com/yansheng836/timescaledb-pg11-build)
+1. ℹ️ Labeled issue [#7512](https://github.com/farion1231/cc-switch/issues/7512) in [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
+2. ❗ Opened issue [#7512](https://github.com/farion1231/cc-switch/issues/7512) in [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
 <!--END_SECTION:activity-->
 
 <!-- the last part/remainder of your README.md goes here -->
