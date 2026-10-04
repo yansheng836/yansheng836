@@ -21,8 +21,8 @@
 <!-- the first part of your README.md goes here! -->
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#7512](https://github.com/farion1231/cc-switch/issues/7512) in [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
-2. ❗ Opened issue [#7512](https://github.com/farion1231/cc-switch/issues/7512) in [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
+1. 🗣 Commented on [#3](https://github.com/yansheng836/hero-skin/pull/3#issuecomment-5976817964) in [yansheng836/hero-skin](https://github.com/yansheng836/hero-skin)
+2. ❌ Closed PR [#3](https://github.com/yansheng836/hero-skin/pull/3) in [yansheng836/hero-skin](https://github.com/yansheng836/hero-skin)
 <!--END_SECTION:activity-->
 
 <!-- the last part/remainder of your README.md goes here -->
