@@ -21,8 +21,8 @@
 <!-- the first part of your README.md goes here! -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/yansheng836/hero-skin/pull/7#issuecomment-6054828026) in [yansheng836/hero-skin](https://github.com/yansheng836/hero-skin)
-2. 🗣 Commented on [#3](https://github.com/yansheng836/hero-skin/pull/3#issuecomment-5976817964) in [yansheng836/hero-skin](https://github.com/yansheng836/hero-skin)
+1. ❌ Closed PR [#13](https://github.com/yansheng836/bilibili-Fanrenpc/pull/13) in [yansheng836/bilibili-Fanrenpc](https://github.com/yansheng836/bilibili-Fanrenpc)
+2. ❌ Closed PR [#15](https://github.com/yansheng836/bilibili-Fanrenpc/pull/15) in [yansheng836/bilibili-Fanrenpc](https://github.com/yansheng836/bilibili-Fanrenpc)
 <!--END_SECTION:activity-->
 
 <!-- the last part/remainder of your README.md goes here -->
