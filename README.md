@@ -21,8 +21,8 @@
 <!-- the first part of your README.md goes here! -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12406](https://github.com/ruanyf/weekly/issues/12406#issuecomment-6235205364) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
-2. 🗣 Commented on [#22](https://github.com/yansheng836/yansheng836.github.io/issues/22#issuecomment-6108529904) in [yansheng836/yansheng836.github.io](https://github.com/yansheng836/yansheng836.github.io)
+1. ❌ Closed PR [#17](https://github.com/yansheng836/python-toolbox/pull/17) in [yansheng836/python-toolbox](https://github.com/yansheng836/python-toolbox)
+2. ❌ Closed PR [#16](https://github.com/yansheng836/python-toolbox/pull/16) in [yansheng836/python-toolbox](https://github.com/yansheng836/python-toolbox)
 <!--END_SECTION:activity-->
 
 <!-- the last part/remainder of your README.md goes here -->
