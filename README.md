@@ -21,8 +21,8 @@
 <!-- the first part of your README.md goes here! -->
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#17](https://github.com/yansheng836/python-toolbox/pull/17) in [yansheng836/python-toolbox](https://github.com/yansheng836/python-toolbox)
-2. ❌ Closed PR [#16](https://github.com/yansheng836/python-toolbox/pull/16) in [yansheng836/python-toolbox](https://github.com/yansheng836/python-toolbox)
+1. ❌ Closed PR [#2](https://github.com/yansheng836/ai-model-news/pull/2) in [yansheng836/ai-model-news](https://github.com/yansheng836/ai-model-news)
+2. ❌ Closed PR [#1](https://github.com/yansheng836/ai-model-news/pull/1) in [yansheng836/ai-model-news](https://github.com/yansheng836/ai-model-news)
 <!--END_SECTION:activity-->
 
 <!-- the last part/remainder of your README.md goes here -->
