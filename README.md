@@ -21,8 +21,8 @@
 <!-- the first part of your README.md goes here! -->
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#110401](https://github.com/anthropics/claude-code/issues/110401) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
-2. 🗣 Commented on [#13256](https://github.com/ruanyf/weekly/issues/13256#issuecomment-6840736997) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
+1. ❌ Closed PR [#4](https://github.com/yansheng836/bilibili-43369/pull/4) in [yansheng836/bilibili-43369](https://github.com/yansheng836/bilibili-43369)
+2. ❌ Closed PR [#3](https://github.com/yansheng836/bilibili-43369/pull/3) in [yansheng836/bilibili-43369](https://github.com/yansheng836/bilibili-43369)
 <!--END_SECTION:activity-->
 
 <!-- the last part/remainder of your README.md goes here -->
