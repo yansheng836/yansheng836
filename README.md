@@ -21,8 +21,8 @@
 <!-- the first part of your README.md goes here! -->
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/yansheng836/bilibili-43369/pull/4) in [yansheng836/bilibili-43369](https://github.com/yansheng836/bilibili-43369)
-2. ❌ Closed PR [#3](https://github.com/yansheng836/bilibili-43369/pull/3) in [yansheng836/bilibili-43369](https://github.com/yansheng836/bilibili-43369)
+1. 🗣 Commented on [#1](https://github.com/yansheng836/hero-skin-lol-image/issues/1#issuecomment-7090076310) in [yansheng836/hero-skin-lol-image](https://github.com/yansheng836/hero-skin-lol-image)
+2. 🔒 Closed issue [#1](https://github.com/yansheng836/hero-skin-lol-image/issues/1) in [yansheng836/hero-skin-lol-image](https://github.com/yansheng836/hero-skin-lol-image)
 <!--END_SECTION:activity-->
 
 <!-- the last part/remainder of your README.md goes here -->
